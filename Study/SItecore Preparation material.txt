@@ -1,0 +1,53 @@
+Sitecore 10 Developer Certifications.
+Sitecore Questions(50-60 questions)(90-minutes)(70-80 pass marks)
+
+1.Sitecore Architecture and Infrastructure(11/11)
+
+Sitecore roles, architecture, and infrastructure requirements
+Key components like Content Delivery (CD) and Content Management (CM) roles
+Understanding of Sitecore Helix principles
+
+2.Content Management and Content Delivery
+
+Content Authoring and Publishing
+Media management and item creation
+Multilingual content support and versioning
+Publishing strategies and workflows
+
+3.Sitecore Experience Platform (XP)
+
+Personalization, A/B Testing, and Marketing Automation
+Experience Editor and Page Editor functionality
+Analytics and tracking for visitor data
+Working with xConnect and xDB
+
+4.Templates, Layouts, and Renderings
+
+Creating and managing templates, fields, and standard values
+Working with layouts, placeholders, and renderings
+Using Sitecore MVC and SXA (Sitecore Experience Accelerator) components
+
+5.Sitecore API and Development Fundamentals
+
+Sitecore Item API and Sitecore.Services.Client
+Implementing custom pipelines and events
+Extending and customizing Sitecore’s core features
+Working with data providers, Sitecore Jobs, and Sitecore services
+
+6.Sitecore JavaScript Services (JSS) and Headless Development
+
+JSS basics and setting up a JSS project
+GraphQL integration and API usage
+Headless architecture and Sitecore as a headless CMS
+
+7.Security, Authentication, and Authorization
+
+User management and Sitecore’s security model
+Role-based permissions and access rights
+Authentication mechanisms, including Sitecore Identity
+
+8.Sitecore Serialization and Deployment
+
+Using Sitecore CLI and Sitecore for serialization (including Unicorn and TDS tools)
+Deployment strategies for Sitecore items and content
+Working with DevOps tools in Sitecore development, including Docker and Kubernetes

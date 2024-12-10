@@ -1,0 +1,28 @@
+cloud computing
+NIST(national institute of standard technology)
+salesforce 
+
+what-store,manage,process
+why-server,traffic,monitor/maintain,security
+1.service 
+   i.IAAS-they will provide one window on our laptop
+  ii.PAAS-host/upload/create
+  iii.SAAS-we can pay and use our use in less price
+
+2.Deployment
+   i.public cloud-eg.google
+  ii.private cloud-eg.google drive
+  iii.Hydrid cloud-(both public,private)
+add community cloud-
+
+iaas-virtulization,servers,storage,networking,os half
+paas-runtime,middleware,virtulization,servers,storage,networking,os
+saas-applications,data,runtime,middleware,virtulization,servers,storage,networking,os
+
+ 5 Essential Characteristics of Cloud Computing:
+
+1.On-demand self-service--a consumer can unilaterally provision computing capabilities,such as server time and network storage,as needed automatically without require human interaction with each service provider.(it will store data automatically no human help)
+2.Broad network access--standard mechanism to provide various heterogenous thin or thick platform(mobile,laptop,tablets) 
+3.Resource pooling--data where the location was store don't know to customer  and no need 
+4.Rapid elasticity--in network data will store elastically using automated process(how much will pay that much storage will get)
+5.Measured service-monitored,controlled and reported automatically for both provider and consumer

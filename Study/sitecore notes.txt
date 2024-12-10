@@ -1,0 +1,6 @@
+vs Connection:
+1.asp.net web app(.net framework),empty select mvc
+2.App_Data,App_config,web_config(delete)
+3.wwwroot bin (sitecore kernel(dll,xml) and system.web(dll,xml) copy and paste in our project and that reference
+4.copy cshtml folder
+5.

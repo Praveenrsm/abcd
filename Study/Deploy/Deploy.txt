@@ -1,0 +1,18 @@
+Inspect->Network->Remote Address for server.Eg:- google.com check no need to 
+DNS->Domain Name server->domain and server ip address mapping called DNS.
+
+Cloud Providers:
+1,FireBase 2,Catalyst(ZOHO) 3,netlify 4,vercel 5,github pages 6,alibaba cloud Azure,AWS,GCP(google cloud platform) ,hostinger
+
+Catalyst hosting:
+Install npm
+command-> npm install -g zcatalyst-cli
+catalyst --version
+1.17.6
+catalyst login
+catalyst init (if fails) --force
+catalyst serve
+catalyst deploy
+docker build -t farmer-api .
+docker run -p 8080:80 my-dotnet-api
+

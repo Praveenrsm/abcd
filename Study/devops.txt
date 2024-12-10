@@ -1,0 +1,23 @@
+
+                                                                                      devops(development and operation)
+
+docker,kubernatives
+continuous integration(CI) and continuous delivery(cd) 
+pipeline(ci and cd) 
+cardinal principles of ci
+
+
+1.continuous integration-develop->git->test
+2.continuous delivery- develop->git->test->deploy->manual deploy to production deploy
+explain: cd is a software development practice where software can be released to production at any time
+3.continuous deployment-develop->git->test->deploy->auto deploy to production deploy
+
+
+instructions of operation team(cd)
+1.copy a set of config files(.properties )from root of the packages folder/etc/config on the server
+2.download and install lastest software patches on os
+3.setup environment variables to the os.     i.)if deploy on test envir. use env=test db=mock.db url=test.mikeselectronics.com
+ii.)if deploy to production env=prod  db=productdb url=mikeselectronics.com
+
+operation team->read instructions->prepare environment ->test i.)success public website 
+ii.)fail ci and cd

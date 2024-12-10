@@ -1,0 +1,11 @@
+English Learning by scenarios:
+Cow Activities and Milk processing scenarios:
+
+       Milk Processing From Cow->The process of getting milk from a cow starts with the cow being positioned in a stable or a milking area. The udder is cleaned to ensure hygiene. The milker then squeezes the teats of the udder to extract the milk. The milk flows into a container, which is later filtered and stored for consumption.
+
+       Cow Activities->
+Mattu sanam->cow dunk.
+human's kalivu->poop,waste,stool,feces.
+
+today morning I wakeup at 6'o clock then I fresh my face and I brush my teeth.then I went to my cowshed there I untied the cow on the shed then I grab the cow rope and tied on nearby railtrack side.after 
+

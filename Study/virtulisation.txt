@@ -1,0 +1,5 @@
+    virtualization:
+              multiple os run on a single system(hardware).
+Hypervisor:
+      it is a program for creating and running virtual machine.
+
